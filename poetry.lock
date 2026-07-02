@@ -394,6 +394,18 @@ MarkupSafe = ">=2.0"
 i18n = ["Babel (>=2.7)"]
 
 [[package]]
+name = "kb25pkuser34"
+version = "0.1.1"
+description = ""
+optional = false
+python-versions = ">=3.12"
+groups = ["main"]
+files = [
+    {file = "kb25pkuser34-0.1.1-py3-none-any.whl", hash = "sha256:f295087f4939fa7bb50d23c418c3f4ab41135a26c1fc6a8c50f7101d35ae5374"},
+    {file = "kb25pkuser34-0.1.1.tar.gz", hash = "sha256:909c169dc3ad568604e6879687730bad9b252f6b86083f5bd2b28af1267150cc"},
+]
+
+[[package]]
 name = "markupsafe"
 version = "3.0.3"
 description = "Safely add untrusted strings to HTML/XML markup."
@@ -847,4 +859,4 @@ sphinx-rtd-theme = "*"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "45ea550bc306901025a74705f72ec5d6532529f88526b0cbe7fb19374dbc37ec"
+content-hash = "2dabfb91b9315f149226f84be8b6d392cacd2e89ddc04f5586eed7c9dd6f6ee2"
